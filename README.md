@@ -1,5 +1,7 @@
 # Sign In
 
+![](https://github.com/phelliperodrigues/singIn-vue/blob/master/statics/singIn.gif)
+
 ## Project setup
 ```
 npm install
